@@ -6,3 +6,6 @@ You can easily read the file and instantly get the idea how to implement PID for
 
 Video link of PID and waypoint navigation implemented for Pluto-X drone in V-Rep.
 https://www.youtube.com/watch?v=hkD08fd-d8A
+
+Video link of PID and waypoint navigation implemented for Pluto-X drone in Real life.
+https://youtu.be/TyiY22WDtmE
