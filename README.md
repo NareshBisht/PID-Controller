@@ -1,4 +1,4 @@
-# PID-Script-Python-ROS-Whycon-Eyantra-PlutoDroneX
+# PID-Controller
 PID (Proportional Integral and Derivative Controller) Script coded in python with the help of ROS (Robotics Operating System) to implememt PID for PlutoX drone. This script was made exclusively for E-yantra competetion.
 
 This script contain Fully commented code to Implement PID and Waypoint navaigation of PlutoX-Drone.
